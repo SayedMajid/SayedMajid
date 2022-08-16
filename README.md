@@ -35,7 +35,7 @@ delivery it efficiently</p>
 </p>
 <h2 align="center" >My Commit Timeline 📝</h2>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SayedMajid&bg_color=3e3c37&color=c181bb&line=7668b1&point=8c3fa2&area=true&hide_border=true)](https://github.com/SayedMajid)
+[![Majid's github activity graph](https://activity-graph.herokuapp.com/graph?username=SayedMajid&bg_color=3e3c37&color=c181bb&line=7668b1&point=8c3fa2&area=true&hide_border=true)](https://github.com/SayedMajid)
 
 
 
