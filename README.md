@@ -4,7 +4,7 @@
 delivery it efficiently</p>
 
 <p align="center" >
-   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e479z9erqdny0d4nryrex6o3ynr8pou7rp5aejwt3x5&rid=200.webp&ct=g" height="340px"/>
+   <img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" height="340px" width="60%"/>
 </p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/majid-sayyed-99610b228/)
@@ -33,7 +33,7 @@ delivery it efficiently</p>
 <img src="https://github-readme-stats.vercel.app/api?username=SayedMajid&theme=tokyonight&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedMajid&theme=tokyonight" height="195px"/>
 </p>
-<h2>My Commit Timeline 📝</h2>
+<h2 align="center" >My Commit Timeline 📝</h2>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SayedMajid&bg_color=3e3c37&color=c181bb&line=7668b1&point=8c3fa2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
