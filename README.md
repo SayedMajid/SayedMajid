@@ -2,13 +2,13 @@
 
 <p align="center">Dedicated, devoted and committed IT enthusiast who likes to use analytical and computer skills to build beautiful web apps/websites. Seeking to use my skills in HTML, CSS and JavaScript in projects and help
 delivery it efficiently</p>
-<p align="center" > 💼 Check my portfolio <a href="https://majid-sayyed.netlify.app/" target="blank">here</a></p>
+<p align="center" > 💼 Check my portfolio <a href="https://majid-sayyed-portfolio.vercel.app/" target="blank">here</a></p>
 
 <p align="center" >
-   <img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" height="340px" width="60%"/>
+   <img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" height="340px" width="70%"/>
 </p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/majid-sayyed-99610b228/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sayedmajid04/)
 [![CodeSandBox Badge](https://img.shields.io/badge/CodeSandBox-Profile-black)](https://codesandbox.io/dashboard/drafts?workspace=01ce0933-d23a-4c86-9788-87c34448c680)
 
 <h2 align="center" >📜 Languages and Skills 👨🏻‍💻</h2>
