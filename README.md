@@ -1,7 +1,6 @@
 <h1 align="center">Hello 🙋🏻‍♂️, I am Majid Sayed</h1>
 
-<p align="center">Dedicated, devoted and committed IT enthusiast who likes to use analytical and computer skills to build beautiful web apps/websites. Seeking to use my skills in HTML, CSS and JavaScript in projects and help
-delivery it efficiently</p>
+<p align="center">Dedicated, devoted and committed WEB enthusiast who likes to use analytical and tech skills to build beautiful web apps/websites. Seeking to use my skills in HTML5, CSS3 and JavaScript in projects and help deliver clean code with efficiency</p>
 <p align="center" > 💼 Check my portfolio <a href="https://majid-sayyed-portfolio.vercel.app/" target="blank">here</a></p>
 
 <p align="center" >
