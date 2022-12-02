@@ -11,7 +11,7 @@
 [![CodeSandBox Badge](https://img.shields.io/badge/CodeSandBox-Profile-black)](https://codesandbox.io/dashboard/drafts?workspace=01ce0933-d23a-4c86-9788-87c34448c680)
 
 <h2 align="center" >📜 Languages and Skills 👨🏻‍💻</h2>
-<p >
+<p align="center" >
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30px" width="80px"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30px" width="70px"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30px" width="100px"/>
@@ -29,12 +29,12 @@
 </p>
 <br/>
 <h2 align="center" > 📈 Github Stats</h2>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=SayedMajid&theme=tokyonight&show_icons=true&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedMajid&theme=tokyonight&hide_border=true" height="195px"/>
+<p align="center" >
+<img src="https://github-readme-stats.vercel.app/api?username=SayedMajid&theme=tokyonight&show_icons=true&hide_border=true" height="205px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedMajid&theme=tokyonight&hide_border=true" height="205px"/>
 </p>
-<p>
-   <img src="https://streak-stats.demolab.com?user=SayedMajid&theme=tokyonight&hide_border=true&border_radius=5" height="195px"/>
+<p align="center" >
+   <img src="https://streak-stats.demolab.com?user=SayedMajid&theme=tokyonight&hide_border=true&border_radius=5" height="205px"/>
 </p>
 <h2 align="center" >My Commit Timeline 📝</h2>
 
