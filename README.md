@@ -30,8 +30,8 @@
 <br/>
 <h2 align="center" > 📈 Github Stats</h2>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=SayedMajid&theme=tokyonight&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedMajid&theme=tokyonight" height="195px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SayedMajid&theme=tokyonight&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedMajid&theme=tokyonight&hide_border=true" height="195px"/>
 </p>
 <p>
    <img src="https://streak-stats.demolab.com?user=SayedMajid&theme=tokyonight&hide_border=true&border_radius=5" height="195px"/>
