@@ -3,9 +3,6 @@
 <p align="center">Dedicated, devoted and committed WEB enthusiast who likes to use analytical and tech skills to build beautiful web apps/websites. Seeking to use my skills in HTML5, CSS3 and JavaScript in projects and help deliver clean code with efficiency</p>
 <p align="center" > 💼 Check my portfolio <a href="https://majid-sayyed-portfolio.vercel.app/" target="blank">here</a></p>
 <p align="center">📨 Reach me at sydmajid04@gmail.com  </p>
-<p align="center" >
-   <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" height="440px" width="70%"/>
-</p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sayedmajid04/)
 [![CodeSandBox Badge](https://img.shields.io/badge/CodeSandBox-Profile-black)](https://codesandbox.io/dashboard/drafts?workspace=01ce0933-d23a-4c86-9788-87c34448c680)
