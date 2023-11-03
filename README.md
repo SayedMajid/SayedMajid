@@ -33,8 +33,6 @@
 <p align="center" >
    <img src="https://streak-stats.demolab.com?user=SayedMajid&theme=tokyonight&hide_border=true&border_radius=5" height="205px"/>
 </p>
-<h2 align="center" >My Commit Timeline 📝</h2>
-
 <img src="https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/UIJ524UIT5AXXGT7WUQHZWDYLM.jpg" alt="nodes" height="300px" width="100%" />
 
 
