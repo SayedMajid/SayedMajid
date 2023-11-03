@@ -35,7 +35,6 @@
 </p>
 <h2 align="center" >My Commit Timeline 📝</h2>
 
-[![Majid's github activity graph](https://activity-graph.herokuapp.com/graph?username=SayedMajid&bg_color=3e3c37&color=c181bb&line=7668b1&point=8c3fa2&area=true&hide_border=true)](https://github.com/SayedMajid)
 <img src="https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/UIJ524UIT5AXXGT7WUQHZWDYLM.jpg" alt="nodes" height="300px" width="100%" />
 
 
